@@ -1,4 +1,3 @@
-```cpp
 #define BLYNK_TEMPLATE_ID   "TMPLxxxxxx"
 #define BLYNK_TEMPLATE_NAME "Urinary Bag Detector"
 #define BLYNK_AUTH_TOKEN    "AuthTokenHere"
@@ -187,4 +186,3 @@ void loop() {
   timer.run();
   checkSerialCommands();
 }
-```
